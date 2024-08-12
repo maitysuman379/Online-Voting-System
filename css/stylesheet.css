@@ -1,0 +1,63 @@
+body{
+    background-color: #b8e994;
+
+}
+
+#headersection{
+    padding: 5px;
+    font-family: cursive;
+    
+}
+
+#inputt{
+    padding: 5px;
+    border-radius: 5px;
+    border-top: 2px solid red;
+    border-right: 2px solid green;
+    border-bottom: 2px solid yellow;
+    border-left: 2px solid blue;
+}
+
+#dropbox{
+    padding: 5px;
+    border-radius: 5px;
+    width: 20.9%;
+    border-top: 2px solid red;
+    border-right: 2px solid green;
+    border-bottom: 2px solid yellow;
+    border-left: 2px solid blue;
+}
+
+#loginbutton{
+    padding:3px ;
+    border-radius: 5px;
+    background-color: #4a69bd;
+    color: white;
+    box-shadow: 4px 4px 6px black;
+    border-top: 1px solid red;
+    border-right: 1px solid green;
+    border-bottom: 1px solid yellow;
+    border-left: 1px solid blue;
+    
+}
+
+#loginbutton:hover{
+    box-shadow: 2px 2px 3px black;
+}
+
+.space{
+    margin-bottom: 10px ;
+}
+
+#image{
+    border-top: 1px solid red;
+    border-right: 1px solid green;
+    border-bottom: 1px solid yellow;
+    border-left: 1px solid blue;
+}
+
+#futer{
+    margin-left: 25%;
+    margin-top: 4%;
+    color: red;
+}
